@@ -64,6 +64,9 @@ project.ext.springOauthVersion = '2.0.4.RELEASE'
 project.ext.jerseyVersion = '1.17'
 project.ext.springDataJpaVersion = '1.7.0.RELEASE' // also change spring-boot-gradle-plugin version above
 
+project.ext.pentahoVersion = '5.4.0.4-149'
+project.ext.pentahoLibVersion = '5.4.0.4-149'
+
 project.ext.mysqlUser='root'
 project.ext.mysqlPassword='mysql'
 
